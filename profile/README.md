@@ -1,11 +1,11 @@
 
-# With Rajesh
+# with RAJESh
 
 > Building technology that helps people connect, learn, build, collaborate, and grow.
 
 ## 🚀 About
 
-With Rajesh is a technology and innovation initiative focused on creating practical solutions through software, artificial intelligence, education, and open collaboration.
+with RAJESh is a technology and innovation initiative focused on creating practical solutions through software, artificial intelligence, education, and open collaboration.
 
 We build products, platforms, and ecosystems that empower individuals, startups, organizations, and communities to achieve more through technology.
 
