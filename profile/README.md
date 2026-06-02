@@ -1,4 +1,4 @@
-```md
+
 # With Rajesh
 
 > Building technology that helps people connect, learn, build, collaborate, and grow.
@@ -52,4 +52,4 @@ Visit **https://withrajesh.com** to learn more about our mission, projects, and 
 ---
 
 ### Learn. Build. Collaborate. Grow.
-```
+
